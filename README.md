@@ -1,5 +1,6 @@
 # Softcom_project
-4.2 Softcom Lab project CSE 4238. 
+4.2 Softcom Lab project CSE 4238.
+Project Title: Realtime Hand Sign Translation to Bangla Using Deep Learning Models and Holistic Keypoints 
 Project members:
 1. Sakif Hussain Shachcha, ID: 190204033
 2. Ahnaf Samin, ID: 190204031
