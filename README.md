@@ -1,4 +1,4 @@
-# Softcom_project
+# Softcom_project: Sign Translator
 4.2 Softcom Lab project CSE 4238.
 
 Project Title: Realtime Hand Sign Translation to Bangla Using Deep Learning Models and Holistic Keypoints.
